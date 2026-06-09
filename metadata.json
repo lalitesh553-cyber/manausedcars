@@ -1,0 +1,6 @@
+{
+  "name": "ManaUsedCars",
+  "description": "India's trusted used cars marketplace. Buy verified used cars or sell your car at the best price with free instant valuation, convenient doorstep evaluation booking, doorstep car servicing, and customized car modifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
